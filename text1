@@ -1,1 +1,13 @@
 Describe the systematic approach used for process analysis /data analysis. What tools and technologies did the team leverage to identify problems/root cause and leverage improvement/ automation/digitization tools for solutioning (Process Reengineering/Design thinking/Analytics/Six Sigma /AI/ML/ IT platforms etc.)? For Innovation project - Describe start up engagement - sourcing, evaluation, & finalization. Show solution Figma/demo/flow diagram explaining working of design/solution and potential impact.
+
+
+
+Tech Stack of P1 :- 
+For Data Analysis :- Pandas ,Sklearn and Python 
+For Backend :- Flask and Rest Api
+For Frontend :- React.js
+For Deployment :- Nginx , Rhel-ite , Azure
+For Version Control :- Git
+ 
+Tech Stack of P2 :- Similar to P1 only for backend we have used Fastapi instead of flask.js as it is faster and more efficient.
+ 
